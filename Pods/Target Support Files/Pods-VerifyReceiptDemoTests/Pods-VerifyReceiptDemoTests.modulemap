@@ -1,0 +1,6 @@
+framework module Pods_VerifyReceiptDemoTests {
+  umbrella header "Pods-VerifyReceiptDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
